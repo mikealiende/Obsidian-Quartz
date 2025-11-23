@@ -1,0 +1,4 @@
+# Derivación en circuitos cuánticos
+
+En [[Introducción redes neuronales clásicas]] hemos visto el potencial que ofrece ser capaz de obtener la derivada de una función  a la hora de optimizar. El problema que tenemos es que no heos definido la derivada dentro de un circuito. La pregunta que nos debemos hace es como podemos modificar los parámetros de un circuito para minimizar la función. Dada la función $g$ que depende de los parámetros $\vec{\theta}$ y devuelve el valor esperado, estamos buscando un método que devuelva $\frac{{\partial g(\vec{\theta})}}{\vec{\partial}\theta}$.
+Para conseguir esto existe un método conocido como [[Shift-rule]]. Gracias a esta regla, podemos optimizar nuestros circuitos cuánticos a través del [[Descenso del gradiente]].

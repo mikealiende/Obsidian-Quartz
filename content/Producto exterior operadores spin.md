@@ -1,0 +1,1 @@
+# Producto exterior operadores spin

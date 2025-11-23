@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1734278174082,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1734278228905,
+          "path": "Algebra/Algebra.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1734278243453,
+          "path": "Algoritmos cuánticos.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1734278251741,
+          "path": "Implementación física de un procesador cuántico.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1734278262139,
+          "path": "Información cuántica.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1734278276970,
+          "path": "Matemáticas de la información.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1734278289092,
+          "path": "Mecánica cuántica.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739724866438,
+          "path": "Computación cuántica.md"
+        }
+      ],
+      "title": "Asignaturas"
+    }
+  ]
+}

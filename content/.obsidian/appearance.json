@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "textFontFamily": "Verdana",
+  "showViewHeader": true,
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "math-font-size",
+    "bigmath"
+  ],
+  "baseFontSize": 13,
+  "showRibbon": true
+}
