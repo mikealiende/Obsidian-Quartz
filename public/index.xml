@@ -2,69 +2,69 @@
 <rss version="2.0">
     <channel>
       <title>Miguel Aliende</title>
-      <link>https://quartz.jzhao.xyz</link>
+      <link>https://mikealiende.github.io/Obsidian-Quartz</link>
       <description>Últimas 10 notas on Miguel Aliende</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Index</title>
-    <link>https://quartz.jzhao.xyz/Index</link>
-    <guid>https://quartz.jzhao.xyz/Index</guid>
-    <description><![CDATA[ Índice Hola, soy Miguel Aliende. Este es mi cerebro digital sobre computación cuántica. ]]></description>
-    <pubDate>Sun, 23 Nov 2025 16:47:20 GMT</pubDate>
-  </item><item>
     <title>Algebra</title>
-    <link>https://quartz.jzhao.xyz/Algebra</link>
-    <guid>https://quartz.jzhao.xyz/Algebra</guid>
+    <link>https://mikealiende.github.io/Obsidian-Quartz/Algebra</link>
+    <guid>https://mikealiende.github.io/Obsidian-Quartz/Algebra</guid>
     <description><![CDATA[ Algebra Asignatura Tema 1. Números complejos Transclude of Números-complejos#indice Tema 2. ]]></description>
-    <pubDate>Sun, 23 Nov 2025 16:35:44 GMT</pubDate>
+    <pubDate>Sun, 23 Nov 2025 17:05:56 GMT</pubDate>
   </item><item>
     <title>Algoritmo de Bernstein-Verizani</title>
-    <link>https://quartz.jzhao.xyz/Algoritmo-de-Bernstein-Verizani</link>
-    <guid>https://quartz.jzhao.xyz/Algoritmo-de-Bernstein-Verizani</guid>
+    <link>https://mikealiende.github.io/Obsidian-Quartz/Algoritmo-de-Bernstein-Verizani</link>
+    <guid>https://mikealiende.github.io/Obsidian-Quartz/Algoritmo-de-Bernstein-Verizani</guid>
     <description><![CDATA[ Algoritmo de Bernstein-Verizani Se trata de una versión restringida del algoritmo de Algoritmo de Deutsch‐Jozsa, en vez de distinguir entre dos tipo de funciones, intenta encontrar un valor s codificado en una función. ]]></description>
-    <pubDate>Sun, 23 Nov 2025 16:35:44 GMT</pubDate>
+    <pubDate>Sun, 23 Nov 2025 17:05:56 GMT</pubDate>
   </item><item>
     <title>Algoritmo de Deutsch</title>
-    <link>https://quartz.jzhao.xyz/Algoritmo-de-Deutsch</link>
-    <guid>https://quartz.jzhao.xyz/Algoritmo-de-Deutsch</guid>
+    <link>https://mikealiende.github.io/Obsidian-Quartz/Algoritmo-de-Deutsch</link>
+    <guid>https://mikealiende.github.io/Obsidian-Quartz/Algoritmo-de-Deutsch</guid>
     <description><![CDATA[ Algoritmo de Deutsch El algoritmo de Deutsch fue el primero en demostrar la ventaja cuántica en un problema, en concreto es capaz de dado un oráculo cuántico f(x), donde x puede ser 0 o 1, determina con una única evaluación si f(x) es: Constante: f(0)=f(1) Balanceada: f(0) \neq f(1) Un algoritmo clá... ]]></description>
-    <pubDate>Sun, 23 Nov 2025 16:35:44 GMT</pubDate>
+    <pubDate>Sun, 23 Nov 2025 17:05:56 GMT</pubDate>
   </item><item>
     <title>Algoritmo de Deutsch‐Jozsa</title>
-    <link>https://quartz.jzhao.xyz/Algoritmo-de-Deutsch%E2%80%90Jozsa</link>
-    <guid>https://quartz.jzhao.xyz/Algoritmo-de-Deutsch%E2%80%90Jozsa</guid>
+    <link>https://mikealiende.github.io/Obsidian-Quartz/Algoritmo-de-Deutsch%E2%80%90Jozsa</link>
+    <guid>https://mikealiende.github.io/Obsidian-Quartz/Algoritmo-de-Deutsch%E2%80%90Jozsa</guid>
     <description><![CDATA[ Algoritmo de Deutsch‐Jozsa Se trata de una generalización del Algoritmo de Deutsch para n qubits. ]]></description>
-    <pubDate>Sun, 23 Nov 2025 16:35:44 GMT</pubDate>
+    <pubDate>Sun, 23 Nov 2025 17:05:56 GMT</pubDate>
   </item><item>
     <title>Algoritmo de Grover</title>
-    <link>https://quartz.jzhao.xyz/Algoritmo-de-Grover</link>
-    <guid>https://quartz.jzhao.xyz/Algoritmo-de-Grover</guid>
+    <link>https://mikealiende.github.io/Obsidian-Quartz/Algoritmo-de-Grover</link>
+    <guid>https://mikealiende.github.io/Obsidian-Quartz/Algoritmo-de-Grover</guid>
     <description><![CDATA[ Algoritmo de Grover El algoritmo de Grover es una algoritmo de búsqueda en una base de datos no estructurada. ]]></description>
-    <pubDate>Sun, 23 Nov 2025 16:35:44 GMT</pubDate>
+    <pubDate>Sun, 23 Nov 2025 17:05:56 GMT</pubDate>
   </item><item>
     <title>Algoritmo de Shor</title>
-    <link>https://quartz.jzhao.xyz/Algoritmo-de-Shor</link>
-    <guid>https://quartz.jzhao.xyz/Algoritmo-de-Shor</guid>
+    <link>https://mikealiende.github.io/Obsidian-Quartz/Algoritmo-de-Shor</link>
+    <guid>https://mikealiende.github.io/Obsidian-Quartz/Algoritmo-de-Shor</guid>
     <description><![CDATA[ Algoritmo de Shor El algoritmo de Shor es uno de los más importantes en la computación cuántica. ]]></description>
-    <pubDate>Sun, 23 Nov 2025 16:35:44 GMT</pubDate>
+    <pubDate>Sun, 23 Nov 2025 17:05:56 GMT</pubDate>
   </item><item>
     <title>Algoritmo de Simon</title>
-    <link>https://quartz.jzhao.xyz/Algoritmo-de-Simon</link>
-    <guid>https://quartz.jzhao.xyz/Algoritmo-de-Simon</guid>
+    <link>https://mikealiende.github.io/Obsidian-Quartz/Algoritmo-de-Simon</link>
+    <guid>https://mikealiende.github.io/Obsidian-Quartz/Algoritmo-de-Simon</guid>
     <description><![CDATA[ Algoritmo de Simon El algoritmo de Simon es el primero que logra una mejora exponencial respecto a un algoritmo clásico.Utiliza un número lineal de consultas, mientras que un algoritmo clásico necesitamos un número exponencial de consultas. ]]></description>
-    <pubDate>Sun, 23 Nov 2025 16:35:44 GMT</pubDate>
+    <pubDate>Sun, 23 Nov 2025 17:05:56 GMT</pubDate>
   </item><item>
     <title>Algoritmos cuánticos avanzados</title>
-    <link>https://quartz.jzhao.xyz/Algoritmos-cu%C3%A1nticos-avanzados</link>
-    <guid>https://quartz.jzhao.xyz/Algoritmos-cu%C3%A1nticos-avanzados</guid>
+    <link>https://mikealiende.github.io/Obsidian-Quartz/Algoritmos-cu%C3%A1nticos-avanzados</link>
+    <guid>https://mikealiende.github.io/Obsidian-Quartz/Algoritmos-cu%C3%A1nticos-avanzados</guid>
     <description><![CDATA[ Algoritmos cuánticos avanzados Transformada cuántica de Fourier QFT Quantum Phase Estimation Algoritmo de Grover Algoritmo de Shor . ]]></description>
-    <pubDate>Sun, 23 Nov 2025 16:35:44 GMT</pubDate>
+    <pubDate>Sun, 23 Nov 2025 17:05:56 GMT</pubDate>
   </item><item>
     <title>Algoritmos cuánticos básicos</title>
-    <link>https://quartz.jzhao.xyz/Algoritmos-cu%C3%A1nticos-b%C3%A1sicos</link>
-    <guid>https://quartz.jzhao.xyz/Algoritmos-cu%C3%A1nticos-b%C3%A1sicos</guid>
+    <link>https://mikealiende.github.io/Obsidian-Quartz/Algoritmos-cu%C3%A1nticos-b%C3%A1sicos</link>
+    <guid>https://mikealiende.github.io/Obsidian-Quartz/Algoritmos-cu%C3%A1nticos-b%C3%A1sicos</guid>
     <description><![CDATA[ Algoritmos cuánticos básicos Tema Algoritmo de Deutsch Algoritmo de Deutsch‐Jozsa Algoritmo de Simon Algoritmo de Bernstein-Verizani. ]]></description>
-    <pubDate>Sun, 23 Nov 2025 16:35:44 GMT</pubDate>
+    <pubDate>Sun, 23 Nov 2025 17:05:56 GMT</pubDate>
+  </item><item>
+    <title>Argumento</title>
+    <link>https://mikealiende.github.io/Obsidian-Quartz/Argumento</link>
+    <guid>https://mikealiende.github.io/Obsidian-Quartz/Argumento</guid>
+    <description><![CDATA[ Argumento . ]]></description>
+    <pubDate>Sun, 23 Nov 2025 17:05:56 GMT</pubDate>
   </item>
     </channel>
   </rss>
